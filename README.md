@@ -12,14 +12,10 @@
 
 ## 📂 專案結構
 - `src/main/java/com/example/demo/infrastructure/FirehoseLocalInfileParallel.java`
-- `README.md`
+
 
 ## 🛠 環境需求
 - JDK **21**+
 - MySQL **8.0+**
 - Maven **3.9+**
 - 充足 CPU / RAM（建議 8C/16G 以上）
-- MySQL 需開啟：
-  ```ini
-  [mysqld]
-  local_infile=1
